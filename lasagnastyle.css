@@ -1,0 +1,33 @@
+.title {
+    font-size: 100px;
+    text-align: center;
+}
+
+.lasagnaimg {
+    display: block;
+    margin-right:auto;
+    margin-left:auto;
+    width: 50%;
+}
+
+p.detail {
+    color:blue;
+    font-size: 50px;
+    
+}
+
+#ingredients {
+    font-size: 75px;
+}
+
+ul {
+    font-size: 50px;
+}
+
+.steps {
+    font-size: 75px;
+}
+
+ol {
+    font-size: 50px;
+}
